@@ -22,7 +22,7 @@ This project was created as part of the "Building Applications with OOP in Pytho
 
 ## Enhancements
 
-I'm planning to redesing this project to be properly designed, applying SOLID principles.
+I'm planning to redesign this project to be properly designed, applying SOLID principles.
 
 ## Conclusion
 
