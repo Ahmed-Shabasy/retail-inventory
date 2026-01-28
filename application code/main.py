@@ -19,8 +19,6 @@ class MoreThanOneProductException(InventoryException):
     """Raised when the customer orders more than one product"""
     pass
 
-# TODO: add NotImplementedError error for abstract methods
-
 
 
 class ISort(ABC):
